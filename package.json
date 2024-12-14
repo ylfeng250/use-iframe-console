@@ -13,6 +13,11 @@
     "lint": "eslint src",
     "prepublishOnly": "yarn build"
   },
+  "files": [
+    "dist",
+    "readme.md",
+    "package.json"
+  ],
   "author": "ylfeng250",
   "license": "MIT",
   "dependencies": {

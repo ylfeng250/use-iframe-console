@@ -40,5 +40,9 @@
     "prettier": "^3.4.2",
     "typescript": "^5.7.2",
     "vite": "^6.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ylfeng250/use-iframe-console.git"
   }
 }
